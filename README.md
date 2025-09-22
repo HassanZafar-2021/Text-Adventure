@@ -5,9 +5,7 @@
 Text-Adventure that users can imagine when playing the CLI, inspired by the cook's assistant quest in Runescape. Help the cook bake a cake for the duke's birthday. Follow the command instructions to play the game.
 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
